@@ -1,0 +1,7 @@
+service:
+  redis:
+    image:latest
+  ports:
+    - "6379":"6379"
+
+      // 8.25
